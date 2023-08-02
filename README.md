@@ -13,17 +13,22 @@ Program akan menghitung jumlah angka unik dalam array dan menampilkan hasilnya.
 # Contoh Penggunaan
 
 Input :
-<prev> 
+<pre>
 
+```
 Masukkan panjang array: 6
 Masukkan elemen array (5 angka dipisahkan spasi): 1 2 2 3 3 4
 
+```
 </prev>
 
 Output : 
 <prev>
 
+```
+
 [1, 2, 2, 3, 3, 4]
 Jumlah pasangan angka unik yang ditemukan: 3
 
+```
 </prev>
