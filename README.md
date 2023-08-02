@@ -13,6 +13,7 @@ Program akan menghitung jumlah angka unik dalam array dan menampilkan hasilnya.
 # Contoh Penggunaan
 
 Input :
+
 <pre>
 
 ```
@@ -23,6 +24,7 @@ Masukkan elemen array (5 angka dipisahkan spasi): 1 2 2 3 3 4
 </prev>
 
 Output : 
+  
 <prev>
 
 ```
